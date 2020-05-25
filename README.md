@@ -1,4 +1,4 @@
-<h1>Compose-Tools</h1>
+<h1>Compose Tools</h1>
 <br>
 Makefile for developing Docker Compose projects.<br>
 It contains commands to easily manage and keep track of your containers.
